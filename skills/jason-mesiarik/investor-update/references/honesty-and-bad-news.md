@@ -10,7 +10,7 @@ Before sending, check every claim against this table.
 |---|---|---|
 | Effectiveness number | Cite the measure and the cohort | "Targeting," or leave it out |
 | Relationship | Signed, active conversation, responsive but undecided | "Sent on the 13th, no reply" |
-| Revenue | The exact number | "Pre-revenue; design-partner phase" |
+| Revenue | The exact number | "Pre-revenue; pilot phase" |
 | Pipeline | Counts by stage | Do not list |
 | Hire | Signed, offer extended, active conversation | "Recruiting," if true |
 | Product | Shipped, or on track for a date | "Targeting a date, with slip risk on a named dependency" |

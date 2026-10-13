@@ -52,7 +52,7 @@ The package answers the decision. It does not restate the question as pros and c
 | Competency scores | Each critical and supporting competency, 1 to 4, with evidence |
 | Deal-breakers | Clear, or which one is flagged |
 | Behaviors observed | Which of the 4 to 6 behaviors were seen, and where |
-| Mindset | Score 1 to 4 on the two mindset questions, the combination read (builder, talker, executor, drifter), and the evidence |
+| Mindset | Score 1 to 4 on the two mindset questions, the stage of progress (not started, planning, acting, progressing), and the evidence |
 | Live exercise | Baseline score, learning delta, and the reading (capable and coachable, steep curve, plateaued, or no-hire) |
 | Failure answer | What the candidate said they got wrong and changed, or the evidence gap if they could not |
 | Referral or sponsor | Who referred or is sponsoring the candidate, and which conclusions rest on that trust rather than evidence |

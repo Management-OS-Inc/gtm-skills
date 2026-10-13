@@ -1,6 +1,6 @@
 # Field cases
 
-Three public cases, anonymized, plus two from the author's experience. Together they show three things that compound: credibility, attention, and narrative debt.
+Three public cases, anonymized, and a fourth told in full in the board-meeting-prep skill. Together they show four things that compound: credibility, attention, narrative debt, and execution certainty.
 
 ## Case 1: The updates that became the diligence file
 
@@ -38,23 +38,9 @@ This is a capital-markets case, not a monthly update, and it is labeled that way
 |---|---|
 | "Large committed revenue backlog." | "Committed backlog alongside fixed lease obligations many times larger; here is the duration mismatch, the cash requirement, and the scenarios." |
 
-## Case 4: Three corrections from a real honesty pass
+## Case 4: The capital ask that a ledger could have won
 
-From the author's experience. A founder's monthly draft read well and was, in three places, untrue.
-
-| Draft said | The truth | Shipped as |
-|---|---|---|
-| "Technical co-founder: terms in motion." | The candidate had not replied in three weeks. | "Technical co-founder: sent on the 13th, no reply. Next step: one follow-up, then widen the search." |
-| "Five design partners signed." | Five active conversations; none signed. | "Five design partners in active conversation; none signed yet; first signature targeted this month." |
-| An investor-friendly price range | The offer customers actually saw was different. | The real price, stated the way customers see it. |
-
-**Lesson.** The overstated version would have read better for one month. The corrected version made every future number more believable.
-
-## Case 5: The capital ask that a ledger could have won
-
-From the author's experience. A technology company asked its board for capital to build market awareness and demand generation. The forecast was credible and the investment quantified. A competing internal initiative, with a longer record of commitments kept and a shorter path to its next milestone, won the capital.
-
-**Lesson.** The decision turned on execution certainty, not on the size of the opportunity. Twelve months of ledger, including small funded tests and what they produced, would have let management say "the next dollar expands a demonstrated system" instead of "here is what we believe will happen."
+Told in full in the board-meeting-prep skill, worked examples, Case 2: a credible forecast lost the capital to a competing initiative with more execution certainty. For updates, the lesson is that a year of ledger, including small funded tests and what they produced, builds that certainty before the ask.
 
 ## What the cases teach together
 
@@ -63,5 +49,4 @@ From the author's experience. A technology company asked its board for capital t
 | Updates became diligence | Credibility | Keep the ledger from month one |
 | Investor list as distribution | Attention | Build the audience before you need it |
 | Disclosure collapsed the narrative | Narrative debt | Pair every favorable number with its counterpart |
-| The honesty pass | Believability | True status words, every time |
 | The capital ask | Execution certainty | Use updates to build the evidence for next year's ask |

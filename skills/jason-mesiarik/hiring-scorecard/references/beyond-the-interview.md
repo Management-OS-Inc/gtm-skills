@@ -61,22 +61,30 @@ A weak second attempt is more revealing than a weak first one. A candidate who r
 
 Outcomes and competencies show whether a candidate can do the job. Two questions show who will be doing it. Ask them in every Type 1 loop and in every Type 2 screen, in this order, and never back to back with a technical question.
 
+### Guardrails
+
+These questions invite personal answers. Use them to read motivation and follow-through, never the content of someone's private life.
+
+- Score the pattern (horizon, motivation, stage of progress), never what the goal is.
+- Never follow up on, record, or weigh family plans, relationships, health, religion, age, or any other protected topic, even if the candidate raises it. Note "personal goal, in progress" and move on.
+- Do not penalize a candidate who keeps the answer professional. Private people and different cultures share differently. A professional goal scores the same as a personal one, and a role-only answer is neutral.
+- Ask every candidate for the role the same two questions, worded the same way.
+- Check local employment law before using personal-life questions in your jurisdiction.
+
 ### Question 1: the horizon
 
 **"Project forward 18 to 24 months. What is going to be different in your life?"**
 
-Ask it about their life, not their career. Then stay silent. The first answer is often rehearsed; the second sentence is usually the real one.
+Let the candidate choose how personal to make it. Then stay silent. The first answer is often rehearsed; the second sentence is usually the real one.
 
 **Listen for:**
 
 | Signal | Strong | Weak |
 |---|---|---|
-| Horizon | Goals that reach beyond the role | Only success in this job |
-| Scope | Personal and professional goals, connected | Title, compensation, or company outcomes only |
+| Horizon | A goal that reaches beyond this year | No goal named |
 | Motivation | An intrinsic reason: something they want to build, learn, become, or provide | External markers: status, money, the next title |
-| Disclosure | Volunteers something real about what drives them | Stays generic and safe |
 
-**Why it matters.** A willingness to share a genuine motivator is a trust signal. People who can name what drives them tend to be candid about other hard things, including bad news. Candidates who answer only in role terms are not disqualified, but the absence of any intrinsic motivator is worth probing in references.
+**Why it matters.** A named goal with an intrinsic reason shows what the candidate will work toward without being pushed. If no intrinsic motivator appears, probe motivation in references.
 
 ### Question 2: the qualifier
 
@@ -103,27 +111,9 @@ Score both questions together on the 1 to 4 scale.
 
 | Score | Pattern |
 |---|---|
-| 4 | A goal beyond the role, a real motivator shared, and measurable progress already made |
-| 3 | A clear goal and specific actions under way |
-| 2 | A clear goal, nothing started; or action toward a goal that is only about the role |
-| 1 | No goal beyond the job, or goals that change when asked twice |
+| 4 | Clear goal, intrinsic reason, measurable progress |
+| 3 | Clear goal, actions under way |
+| 2 | Clear goal, nothing started |
+| 1 | No goal named, or it changes when asked twice |
 
-### Reading the combination
-
-| | Has started | Has not started |
-|---|---|---|
-| **Big goal, personal and professional** | Self-driven builder. Highest signal | Talker. Ambition without follow-through; check references for the same pattern at work |
-| **Goal limited to the role** | Steady executor. Reliable, may need external motivation | Drifter. Low signal for any Type 1 role |
-
-A candidate who has not started on their own goal is unlikely to start on yours without close management. That is the point of the second question.
-
-### Guardrails
-
-These questions invite personal answers. Use them to read motivation and follow-through, never the content of someone's private life.
-
-- Score the pattern (horizon, motivation, stage of progress), never what the goal is.
-- Never follow up on, record, or weigh family plans, relationships, health, religion, age, or any other protected topic, even if the candidate raises it. Note "personal goal, in progress" and move on.
-- Do not penalize a candidate who keeps the answer professional. Private people and different cultures share differently. Treat a role-only answer as neutral and probe motivation another way.
-- Ask every candidate for the role the same two questions, worded the same way.
-- Check local employment law before using personal-life questions in your jurisdiction.
-
+Stated goal, nothing started: probe follow-through in references.

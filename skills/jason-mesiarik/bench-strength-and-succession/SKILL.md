@@ -21,7 +21,7 @@ Applies to any team with at least one role the business cannot afford to lose. P
 
 ## The sequence
 
-1. **Name the critical roles and scan the horizon.** A role is critical if losing its holder would put a quarter's number, a top customer, or a key capability at risk within 90 days. Include the leader's own role. Then scan 18 to 24 months ahead: retirements, flight risk, and promotions that will open seats. Read `references/bench-scorecard.md`.
+1. **Name the critical roles and scan the horizon.** A role is critical if losing its holder would put a quarter's number, a top customer, or a key capability at risk within 90 days. Include the leader's own role. Then scan 18 to 24 months ahead: announced transitions, flight risk, and promotions that will open seats. Read `references/bench-scorecard.md`.
 2. **Score the bench.** For each critical role: how many qualified backfills, how soon each is ready, and whether the incumbent is a single point of failure. Compute the aggregate bench score.
 3. **Assess performance with evidence.** Results against target, quality of results, and how they were produced. No placement without data.
 4. **Assess potential with evidence.** Four signals: learning speed, aspiration, the altitude the person already operates at, and whether others get better around them. Read `references/potential-and-readiness.md`.

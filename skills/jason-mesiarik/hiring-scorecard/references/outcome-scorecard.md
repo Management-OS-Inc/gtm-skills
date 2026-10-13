@@ -11,7 +11,7 @@ An outcome is a result, not an activity.
 | Result, not activity | "Drive pipeline strategy" | "Build next-year pipeline to 3x coverage by the end of Q2" |
 | Measurable | "Improve the team" | "Bring 4 of 6 reps to full productivity by month 9" |
 | Dated | "Fix forecasting" | "Deliver a day-90 forecast within 15% of actual" |
-| Owned by this role | "Grow revenue" | "Convert 40 design partners to paid contracts by year end" |
+| Owned by this role | "Grow revenue" | "Convert 40 pilots to paid contracts by year end" |
 
 **Count:** 5 to 8. Fewer than 5 under-defines the role. More than 8 and no one can be measured against all of them.
 

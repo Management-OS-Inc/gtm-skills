@@ -10,7 +10,7 @@ Each round owns specific competencies. No two rounds test the same thing by acci
 | Outcome deep-dive | Hiring manager | 60 to 90 min | The two heaviest outcomes, in detail | Yes | Yes |
 | Functional depth | Peer or expert | 60 min | Critical competencies | Yes | Optional |
 | Live exercise, feedback and repeat | Hiring manager plus one observer | 45 to 60 min | One critical outcome, plus learning speed | Yes | Recommended |
-| Values and working style | CEO or founder | 60 to 120 min, unstructured setting | Behaviors list and both mindset questions | Yes | Mindset questions in the screen |
+| Values and working style | CEO or founder | 60 to 120 min, same structured setting for every candidate | Behaviors list and both mindset questions | Yes | Mindset questions in the screen |
 | References | Hiring manager | 15 to 20 min each | Evidence gaps | Yes | Light |
 
 ## Behavioral questions only
@@ -82,7 +82,7 @@ A critical competency at 2 or below is a no-hire unless a named plan covers the 
 - Uses "we" for every success and "they" for every failure
 - Cannot name a mistake that cost them something
 - Describes former colleagues with contempt
-- Every example is from more than five years ago
+- Cannot give a recent example of the core outcome when asked directly
 - Numbers change when asked twice
 
 ## Referrals and sponsors

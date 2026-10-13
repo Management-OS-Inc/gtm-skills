@@ -1,10 +1,12 @@
 # Field cases
 
-Four anonymized real cases. Contextual details are generalized to protect the people and companies involved. Two hires succeeded and two failed. In every case, the outcome was predicted by evidence in the process, and in the two failures that evidence was outweighed by an impression.
+Drawn from real situations. Names, industries, figures, and timelines have been changed or combined to protect the people and companies involved.
 
-## Case 1: The awkward grinder
+Four cases: two hires succeeded and two failed. In every case, the outcome was predicted by evidence in the process, and in the two failures that evidence was outweighed by an impression.
 
-**Situation.** A telecommunications sales leader interviewed a candidate who did not look like the future star. He was awkward, a little goofy, and lacked the polish of other candidates. It would have been easy to screen him out on presence or fit.
+## Case 1: The unpolished grinder
+
+**Situation.** A telecommunications sales leader interviewed a candidate who did not look like the future star. He was unpolished and unconventional next to the other candidates. It would have been easy to screen him out on presence or fit.
 
 **The signal.** He was unusually clear that he wanted to succeed and would do the work to get there. When told what good looked like, he tried to do it. When coached, he changed. When given a process, he followed it. Repetitive work was not beneath him. Little drama, little entitlement.
 
@@ -18,13 +20,13 @@ Four anonymized real cases. Contextual details are generalized to protect the pe
 
 ## Case 2: The likable referral
 
-**Situation.** At an early-stage technology company, a candidate came referred by a highly regarded team member. He was likable, communicated well enough, and was clearly interested.
+**Situation.** At a growth-stage company, a candidate came referred by a highly regarded team member. He was likable, communicated well enough, and was clearly interested.
 
 **The signal that was softened.** He lacked focus. It showed up the way it usually does in an interview: scattered answers, shifting priorities, enthusiasm without matching rigor. The referral and the warm impression made it easy to tell a story instead: good person, trusted referral, we can coach the rest.
 
 **Decision.** Hire.
 
-**What happened.** The role required disciplined, repeatable execution. Coaching was provided and expectations were clear. The consistency never emerged. He was terminated for poor performance.
+**What happened.** The role required disciplined, repeatable execution. Coaching was provided and expectations were clear. The consistency never emerged, and he left the role.
 
 **What was missed.** The referral became borrowed evidence. Respect for the recommender transferred to the candidate, and likability added another layer. Neither answered the only question that mattered: will this person repeatedly perform the behaviors the outcomes require?
 
@@ -32,13 +34,13 @@ Four anonymized real cases. Contextual details are generalized to protect the pe
 
 ## Case 3: "I have never failed"
 
-**Situation.** A leader evaluated an internal candidate for a significant role. The candidate was articulate, confident, and strongly favored by the leader's own manager.
+**Situation.** A leader evaluated an internal candidate for a significant role. The candidate was articulate, confident, and strongly favored by a senior sponsor.
 
 **The signal.** Asked about failure, the candidate said: "I have never failed." Probed, the answer did not change.
 
-**Decision.** The interviewer recommended against the hire. The manager overruled and directed the hire.
+**Decision.** The interviewer recommended against the hire and was overruled.
 
-**What happened.** Within a year, the hire ended in termination following lapses in judgment and conduct.
+**What happened.** Within a year, the hire did not work out.
 
 **What the answer revealed.** Confidence was not the competency being tested. Self-awareness, accountability, and candor were. The absence of any failure was less plausible than the alternatives: low self-awareness, blame placed elsewhere, unwillingness to disclose, or managing the interview.
 
@@ -60,9 +62,9 @@ Four anonymized real cases. Contextual details are generalized to protect the pe
 
 | Case | Surface signal | Deeper signal | Outcome |
 |---|---|---|---|
-| Awkward grinder | Low polish | Hunger, coachability, execution | Exceptional growth |
-| Likable referral | Likability and a trusted endorsement | Insufficient focus and follow-through | Performance termination |
-| "Never failed" | Confidence and senior sponsorship | Weak self-awareness and accountability | Judgment and conduct termination |
+| Unpolished grinder | Low polish | Hunger, coachability, execution | Exceptional growth |
+| Likable referral | Likability and a trusted endorsement | Insufficient focus and follow-through | Did not work out |
+| "Never failed" | Confidence and senior sponsorship | Weak self-awareness and accountability | Did not work out |
 | Force multiplier | Extensive experience | Portable expertise, self-awareness, elevates others | Durable high performance |
 
-**Interviews fail when impressions substitute for evidence.** It runs both ways. The awkward candidate can be underestimated. The likable one can be overestimated. The confident one can hide a dangerous blind spot. The experienced one can be rigid, or can turn expertise into leverage. That is why the process starts from outcomes, scores observed behavior, tests learning live, asks about failure, and separates aspiration from what the candidate is already doing.
+**Interviews fail when impressions substitute for evidence.** It runs both ways. The unpolished candidate can be underestimated. The likable one can be overestimated. The confident one can hide a dangerous blind spot. The experienced one can be rigid, or can turn expertise into leverage. That is why the process starts from outcomes, scores observed behavior, tests learning live, asks about failure, and separates aspiration from what the candidate is already doing.

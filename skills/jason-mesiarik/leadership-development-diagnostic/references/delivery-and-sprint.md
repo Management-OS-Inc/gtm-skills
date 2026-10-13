@@ -70,7 +70,7 @@ Instead: here is the signal, here is our hypothesis about what it means, here is
 
 Before any data is shared, ask two questions in order.
 
-**"Project forward 18 to 24 months. What is going to be different in your life?"** Listen for goals beyond the role, personal and professional, and for an intrinsic motivator the leader is willing to share. A leader who answers only in role terms has not yet connected development to anything they care about.
+**"Project forward 18 to 24 months. What is going to be different in your life?"** Listen for a goal the leader cares about; let them choose how personal to make it. Listen too for the intrinsic motivator behind it.
 
 **"What are you doing today to achieve that goal?"** Place the answer in the process: not started, planning, acting, or progressing. A leader who has not started on their own goal will not start on a development plan without help.
 
