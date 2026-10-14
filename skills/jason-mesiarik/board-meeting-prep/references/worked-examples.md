@@ -1,16 +1,18 @@
 # Worked examples
 
-Two real cases, anonymized. One ask landed. One did not. The difference was not the quality of the opportunity.
+Drawn from real situations. Names, industries, figures, and timelines have been changed or combined to protect the people and companies involved.
+
+Two cases. One ask landed. One did not. The difference was not the quality of the opportunity.
 
 ## Case 1: The transformation that got funded
 
-**Situation.** A global financial-services business operated in more than 30 countries. Commercial capability varied sharply by market. Leadership had no appetite for another training program.
+**Situation.** A global company operated in dozens of countries. Commercial capability varied sharply by market. Leadership had no appetite for another training program.
 
 **The trap.** Selling training. A training proposal asks the board to fund an activity, and boards have seen many activities fail to change results.
 
 **What management did instead.** Reframed the conversation around the performance system: inconsistent commercial practice across markets, long onboarding, fragmented investment, and uneven execution against shared strategic priorities. The recommendation tied the operating intervention to enterprise priorities and made the resource decision explicit.
 
-**Result.** The ask landed. The program reached roughly 1,200 people globally and aligned about $3M of investment behind common business priorities.
+**Result.** The ask landed. The program reached more than a thousand people across regions and pulled fragmented spend behind common business priorities.
 
 **Why it worked, mapped to the sequence.**
 
@@ -26,7 +28,7 @@ Two real cases, anonymized. One ask landed. One did not. The difference was not 
 
 ## Case 2: A credible forecast that did not win the capital
 
-**Situation.** An emerging technology company had proven customers valued what it delivered: millions in revenue, demanding enterprise customers, and a substantial pipeline. Almost nobody in the broader market knew the company. The commercial team concluded that awareness had become the binding constraint: delivery capability had outgrown market education and repeatable demand generation.
+**Situation.** An emerging technology company had proven customers valued what it delivered: millions in revenue, demanding enterprise customers, and a substantial pipeline. Market awareness lagged well behind what its customers already knew. The commercial team concluded that awareness had become the binding constraint: delivery capability had outgrown market education and repeatable demand generation.
 
 **The ask.** Fund the next stage of go-to-market: market education, brand, content, events, partners, and systematic demand generation, sized to produce the pipeline the revenue forecast required. The forecast was presented, the investment quantified, and the link from spend to pipeline to revenue made explicit.
 

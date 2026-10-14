@@ -1,12 +1,12 @@
 # Field cases
 
-Three anonymized real cases. Names, companies, and identifying details are removed or generalized. Each shows a different leadership-development truth: capability without aspiration, motivation waiting for the right lever, and leadership that multiplies others.
+Drawn from real situations. Names, industries, figures, and timelines have been changed or combined to protect the people and companies involved. Each of the three cases shows a different leadership-development truth: capability without aspiration, motivation waiting for the right lever, and leadership that multiplies others.
 
 ## Case 1: The exceptional practitioner who did not want the next job enough
 
-**Leader.** A highly regarded sales enablement leader who had trained thousands of sellers. Exceptional at the craft: facilitation, coaching, adult learning. Credible with sellers and managers, trusted across the organization, consistently excellent work. The potential was obvious.
+**Leader.** A highly regarded sales engineering leader, the team's go-to expert on complex deals. Exceptional at the craft: technical discovery, solution design, demonstrations. Credible with sellers and managers, trusted across the organization, consistently excellent work. The potential was obvious.
 
-**The next stage.** Moving from team leader to director, and toward a VP role, required more than mastery of training: fluency in CRM and the revenue technology stack, financial and business acumen, operating cadence and measurement, revenue-operations fluency, and the ability to tie enablement to business outcomes. It also required initiative in building capabilities outside their area of expertise.
+**The next stage.** Moving from team leader to director, and toward a VP role, required more than technical mastery: fluency in the revenue technology stack, financial and business acumen, operating cadence and measurement, revenue-operations fluency, and the ability to tie technical work to business outcomes. It also required initiative in building capabilities outside their area of expertise.
 
 **The gaps were learnable.** That was the point. The organization offered mentoring, exposure, assignments, and feedback. What it could not create was the leader's own decision: "I want the next role badly enough to become the person that role requires."
 
@@ -22,9 +22,9 @@ Three anonymized real cases. Names, companies, and identifying details are remov
 
 **The intervention.** A new manager tried to understand him instead of adding pressure. The manager saw that he was underchallenged and paired him with a mentor who pushed harder while learning what mattered to him. Two motivators came into alignment: intrinsic (challenge, mastery, proving what he could do) and tangible (financial reward and what it made possible).
 
-**What happened.** The trajectory changed fast. He landed two of the company's largest new logos, finished near 200% of quota, and earned the top-performer award. He sustained that level for three consecutive years.
+**What happened.** The trajectory changed fast. He landed two of the company's largest new logos, finished well above quota, earned top-performer recognition, and sustained it for several years.
 
-**Then the system failed differently.** Performance created a new aspiration: advancement. Three years of exceptional production did not produce the promotion he believed he had earned. He left for a competitor, and later built businesses across several unrelated industries, including one in talent development.
+**Then the system failed differently.** Performance created a new aspiration: advancement. Years of exceptional production did not produce the promotion he believed he had earned. He left for a competitor.
 
 **The diagnosis.** Not "low motivation." **Untapped motivation in an environment that was not challenging him.** The mentor did not create ambition. He surfaced it. And the organization then asked an ambitious person to keep growing with no credible path to grow into.
 
@@ -32,11 +32,11 @@ Three anonymized real cases. Names, companies, and identifying details are remov
 
 ## Case 3: The leader who made everyone around him better
 
-**Leader.** A technical leader at a large communications company who began by managing engineers. Intensely curious, challenged conventional thinking, expected excellence. Unlike leaders who extract performance through pressure, he drew it out of people. He questioned assumptions without diminishing the person who held them, challenged and supported in the same conversation, and kept redirecting attention to the customer's desired business outcome rather than products, silos, or internal metrics.
+**Leader.** A technical leader at a large company who began by managing engineers. Intensely curious, challenged conventional thinking, expected excellence. Unlike leaders who extract performance through pressure, he drew it out of people. He questioned assumptions without diminishing the person who held them, challenged and supported in the same conversation, and kept redirecting attention to the customer's desired business outcome rather than products, silos, or internal metrics.
 
 **From manager to system builder.** As his scope grew, he worked increasingly through others. He developed people who developed colleagues, customers, partners, and eventually their own teams. He did not need credit for ideas. He often helped managers reach conclusions themselves, so they left saying "this is our plan," and owned it.
 
-**Business impact.** Promoted from engineering leadership into sales leadership, he took over the company's largest branch while it was declining at a double-digit rate. The next year it grew at a double-digit rate, a swing of more than 50 points in a market where 10% growth was exceptional. The operating philosophy and customer-outcome methodology he built with other leaders spread beyond his organization over about three years, became part of the company's sales methodology, and contributed to transforming a major line of business. He advanced through director and vice president to executive vice president of sales, leading a multibillion-dollar business through a successful sale.
+**Business impact.** Promoted from engineering leadership into sales leadership, he took over a large, declining region and returned it to strong growth within a year, in a market where 10% growth was exceptional. The operating philosophy and customer-outcome methodology he built with other leaders spread beyond his organization over about three years, became part of the company's sales methodology, and contributed to transforming a major line of business. He went on to senior sales leadership, leading a large business through a successful transaction.
 
 **What made him different.** Not intelligence, technical expertise, sales expertise, or charisma. **Multiplication.** He understood that the higher he rose, the less his job was to have the answer, and the more it was to raise the quality of thinking, ownership, and execution in the leaders beneath him. He modeled what he expected, challenged without disempowering, developed managers rather than bypassing them, gave people ownership of solutions, held accountability without removing agency, and kept the customer outcome at the center. The behaviors spread. That is culture.
 

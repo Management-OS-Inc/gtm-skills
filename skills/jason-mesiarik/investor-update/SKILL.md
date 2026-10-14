@@ -37,7 +37,7 @@ Applies to any written communication with people who fund, govern, or advise the
 - **The repeatable sentence:** the headline is something an investor can say to a partner and be accurate. Not "interesting things with AI" but "doubled enterprise ARR with burn flat, and three of five target customers are in contracting."
 - **The common mistake:** an update that reads like a press release. "Thrilled to share" and "transformative quarter" carry no information, and sophisticated readers discount everything that follows.
 - **The second mistake:** framing that makes investors find the other half of the truth themselves. Investors tolerate bad numbers. They do not tolerate discovering that management knew which numbers would change their reading and chose not to show them.
-- **The third mistake:** generic asks. "Any intros welcome" produces nothing. "An introduction to a CRO at a $10M to $30M ARR company who has rebuilt a forecast process" produces meetings.
+- **The third mistake:** generic asks. "Any intros welcome" produces nothing. "An introduction to a CFO at a $10M to $30M ARR company who has run a debt raise" produces meetings.
 - **How to know it worked:** investors reply, asks get fulfilled, and bad news never reaches them from someone else first. Over a year, the update record becomes the strongest slide in the next fundraise.
 - Field cases: `references/worked-examples.md`. Templates for each update type: `references/templates.md`. Score with `references/update-rubric.md`. Ship at 90 or above.
 

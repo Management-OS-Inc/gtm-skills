@@ -6,9 +6,9 @@ Numbers before words. An update without a fixed metrics frame drifts into storyt
 
 1. **Same metrics, same order, every period.** Change the frame only at a stage change, and say so when you do.
 2. **Actual, plan, prior period, and variance** for every metric where a plan exists. A single number is noise.
-3. **Anchor in time.** "$0 ARR" is true forever and means nothing. "$0 ARR; 5 design partners onboarding; first paid conversion targeted for July" is honest and useful.
+3. **Anchor in time.** "$0 ARR" is true forever and means nothing. "$0 ARR; 3 pilots live; first paid conversion targeted next quarter" is honest and useful.
 4. **Unmeasured means unmeasured.** Write "not yet measured" rather than estimating silently.
-5. **Report by count, not by name,** unless the audience is entitled to names. "Five design partners onboarding, two signed, none paid."
+5. **Report by count, not by name,** unless the audience is entitled to names. "Eight pilots: three live, two signed, none paid."
 6. **Any variance above 10% against plan gets a one-sentence cause.**
 
 ## Three tiers
@@ -26,7 +26,7 @@ Results before activity. Report outcomes first, then the leading indicators that
 
 | Stage | Core metrics, in order |
 |---|---|
-| Pre-revenue | Design partners by stage (intro, signed, onboarding, live, paid); product milestones against dates; key hires; runway |
+| Pre-revenue | Pilots by stage (intro, signed, onboarding, live, paid); product milestones against dates; key hires; runway |
 | Early revenue | ARR and new ARR; paying customers; pipeline coverage for next quarter; win rate; gross retention; burn and runway |
 | Scaling | ARR growth; net revenue retention; pipeline coverage by segment; win rate and cycle; CAC payback; burn multiple; runway |
 

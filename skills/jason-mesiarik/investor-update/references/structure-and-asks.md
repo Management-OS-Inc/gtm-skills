@@ -19,7 +19,7 @@ One sentence. If the reader stops there, they still know what matters.
 
 | Fails | Works |
 |---|---|
-| "Excited to share some progress this month." | "Five design partners are onboarding, the product ships on the 7th, and the open question is the technical co-founder hire." |
+| "Excited to share some progress this month." | "Three pilots converted to paid, the mobile release ships on the 7th, and the open question is mid-market pricing." |
 | "It has been a busy quarter." | "Q1 closed at 92% of plan on new ARR, runway is 14 months, and win rate is the constraint." |
 | "I want to update you on a few things." | "We missed the quarter by 18%, the cause is a pipeline gap we saw in January, and here is the plan." |
 
@@ -42,9 +42,9 @@ One idea per paragraph. Investors scan.
 
 | Generic | Specific |
 |---|---|
-| "Any intros welcome." | "An introduction to a CRO at a $10M to $30M ARR company who has rebuilt a forecast process." |
-| "Would love your thoughts." | "Is a 7 May ship date too aggressive for a two-engineer team? Yes or no, and why." |
-| "Help with hiring." | "Two candidates for a founding account executive, ideally from a company that sold to sales leaders." |
+| "Any intros welcome." | "An introduction to a CFO at a $10M to $30M ARR company who has run a debt raise." |
+| "Would love your thoughts." | "Is a launch on the 7th realistic given a six-week security review? Yes or no, and why." |
+| "Help with hiring." | "Two candidates for an enterprise account executive, ideally from a company that sold into hospital systems." |
 
 **Make introductions easy.** For every introduction ask, include a three-sentence blurb the investor can forward without editing: who you are, why this person specifically, and what you are asking of them.
 

@@ -27,7 +27,7 @@ Applies to any hire where the cost of being wrong is high. Produces a scorecard,
 4. **Set deal-breakers and behaviors.** Deal-breakers are testable conditions checked before interviews start. Culture fit is 4 to 6 observable behaviors, never a personality.
 5. **Build the interview loop.** Behavioral questions only, at least 2 per critical competency, each round owning specific competencies. Every candidate gets the failure question: what they do with failure, not whether they have failed. Senior hires get the force-multiplier questions. Interviewers score alone, in writing, before any debrief. Read `references/interview-kit.md`.
 6. **Run the live exercise.** A realistic exercise tied to a critical outcome. Give two or three points of specific feedback, invite questions, and have the candidate repeat it immediately. Score the delta between attempts, not just the first one. Read `references/beyond-the-interview.md`.
-7. **Test the mindset.** Ask two questions in order: "Project forward 18 to 24 months. What is going to be different in your life?" then "What are you doing today to achieve that goal?" The first reveals horizon, intrinsic motivation, and willingness to share something real. The second reveals whether the goal is a wish or a commitment. Read `references/beyond-the-interview.md`.
+7. **Test the mindset.** Ask two questions in order: "Project forward 18 to 24 months. What is going to be different in your life?" then "What are you doing today to achieve that goal?" The first reveals horizon and intrinsic motivation; the candidate chooses how personal to make it. The second reveals whether the goal is a wish or a commitment. Read `references/beyond-the-interview.md`.
 8. **Run references.** Type 1: at least 3, one of them off-list. Listen for examples, pauses, and qualifications. Read `references/decision-package.md`.
 9. **Write the decision package.** Score each candidate against the scorecard, not against each other. Name the evidence gaps. Answer the ten-question operating rule, ending with: if this hire fails in twelve months, what signal will I wish I had taken seriously? Log the decision, any override, and a checkpoint date. Read `references/decision-package.md`.
 10. **Audit at the checkpoint.** Day 30 for Type 2, day 90 for Type 1. Return to the logged signals and record what came true.
@@ -37,7 +37,7 @@ Applies to any hire where the cost of being wrong is high. Produces a scorecard,
 - **The expert's tell:** weighted outcomes exist before the first conversation, and the hiring manager can say which two carry the most weight.
 - **The common mistake:** impressions substitute for evidence. Polish, likability, confidence, or a trusted referral wins the room, and the miss shows up two quarters later.
 - **The learning tell:** a weak second attempt after clear feedback. The gap is not knowledge.
-- **The mindset tell:** a big goal with nothing started. Ambition without follow-through in their own life predicts the same at work.
+- **The mindset tell:** a stated goal with nothing started. Probe follow-through in references before weighting it.
 - **How to know it worked:** independent written scores, at least one honestly named evidence gap, and a checkpoint audit that confirms the right signals were watched.
 - Four real field cases, two hires that worked and two that failed: `references/worked-examples.md`. Score the kit with `references/kit-rubric.md`. Type 1 ships at 90 or above with every criterion at 9 or above.
 

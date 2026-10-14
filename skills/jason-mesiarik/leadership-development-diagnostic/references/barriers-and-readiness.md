@@ -82,7 +82,7 @@ The brief is what a CEO or board reads. Lead with the verdict.
 
 1. **Verdict.** One of the three, in the first line.
 2. **Headline gap.** One sentence, with the business consequence.
-3. **Capability and aspiration.** Can they, and will they, scored separately.
+3. **Capability and aspiration.** Can they, and will they, scored separately. Aspiration here means stated professional aspiration only; nothing personal from the goal conversation goes in the brief.
 4. **Evidence.** Three to five bullets across time allocation, 360, observation, and practice test. Include where sources disagree.
 5. **System factors.** Anything in the environment that must change for the leader to succeed.
 6. **Strengths to build on.** Two or three, with examples.

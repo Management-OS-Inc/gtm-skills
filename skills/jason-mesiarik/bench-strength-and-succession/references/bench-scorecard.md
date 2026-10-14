@@ -72,7 +72,7 @@ The bench scorecard shows today's exposure. The horizon scan shows the exposure 
 
 | Signal | Question |
 |---|---|
-| Retirement and tenure | Which incumbents are likely to retire or step back within two years? |
+| Announced transitions | Which incumbents have announced or formally discussed a retirement, sabbatical, or role change within two years? |
 | Flight risk | Which incumbents or successors are outgrowing their roles, under-challenged, or courted by the market? |
 | Promotion pull | Which incumbents are likely to be promoted, opening their seat? |
 | Business change | Which roles will change shape as strategy, scale, or technology shifts? |

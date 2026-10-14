@@ -17,7 +17,7 @@ Do not rate potential on polish, confidence, visibility, tenure, or who the pers
 | Signal | Question | Evidence |
 |---|---|---|
 | **Learning speed** | How fast does this person turn feedback into changed behavior? | A feedback-and-repeat exercise; how fast they ramped into their last new responsibility; what changed after their last coaching |
-| **Aspiration** | Do they want the next stage enough to become what it requires? | Their own answer to "Project forward 18 to 24 months: what will be different?" and "What are you doing today to achieve it?" |
+| **Aspiration** | Do they want the next stage enough to become what it requires? | Their stated career goal for the next 18 to 24 months and what they are already doing toward it. Professional goals only; never record personal-life content. |
 | **Operating altitude** | Do they already operate partly at the next level? | Where their time goes; whether they solve problems beyond their role; whether peers seek them out |
 | **Multiplier evidence** | Do people around them get better? | Who they have helped improve, and how; whether knowledge spreads from them or stays with them |
 

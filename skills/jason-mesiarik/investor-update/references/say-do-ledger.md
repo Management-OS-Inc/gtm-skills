@@ -22,7 +22,7 @@ Every update ends its forward look with up to three specific commitments for the
 | Period | We said | Status | Result | What we learned |
 |---|---|---|---|---|
 | January | Ship the beta | Done | Shipped on the 28th | |
-| February | Add 20 design partners | Partial | 16 | Activation friction in onboarding |
+| February | Add 20 pilots | Partial | 16 | Activation friction in onboarding |
 | March | Fix onboarding | Done | Activation up 31% | The new flow works |
 | April | Reach the revenue target | Done | 8% above | |
 | May | Sign the first channel partner | Missed | Final terms slipped to June | Partner legal review takes six weeks, not two |
@@ -34,7 +34,7 @@ By fundraising time, this is not a forecast. It is evidence of forecasting, lear
 | Weak | Strong |
 |---|---|
 | "Continue building pipeline." | "Next-quarter pipeline coverage from 2.4x to 3x by the 30th." |
-| "Make progress on hiring." | "Signed offer for a founding account executive by the 15th." |
+| "Make progress on hiring." | "Signed offer for an enterprise account executive by the 15th." |
 | "Improve onboarding." | "Activation rate from 41% to 55% for customers who start this month." |
 
 Three commitments at most. Each is specific, measurable, dated, and in the company's control. A founder who commits to ten things and delivers six has a worse ledger than one who commits to three and delivers three.

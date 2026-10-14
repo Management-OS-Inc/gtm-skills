@@ -23,7 +23,7 @@ Applies to any leader with at least 30 days in role. Produces a one-page brief w
 ## The sequence
 
 1. **Set purpose and stage.** Development, transition, readiness, or new-leader baseline. Place the leader on the stage ladder and name the transition they face. Read `references/stage-and-time.md`.
-2. **Anchor in the leader's goal.** Ask "Project forward 18 to 24 months. What is going to be different in your life?" then "What are you doing today to achieve that goal?" Then the learning question: "What is the most important thing you have changed about how you lead in the last year, and what triggered it?"
+2. **Anchor in the leader's goal.** Ask "Project forward 18 to 24 months. What is going to be different in your life?" then "What are you doing today to achieve that goal?" Let the leader choose how personal to make the answer. Then the learning question: "What is the most important thing you have changed about how you lead in the last year, and what triggered it?"
 3. **Rule out the system.** Check information, resources, and incentives before assessing the person. Read `references/evidence-and-analysis.md`.
 4. **Gather four kinds of evidence.** Time allocation from 4 to 6 weeks of calendar data, a 360, direct observation in real meetings, and a feedback-and-repeat practice test. Read `references/stage-and-time.md`.
 5. **Analyze.** Score every competency in situation, behavior, impact form. Read the 360 for blind spots, hidden strengths, overuse, distributions, and derailers under pressure. Compute the gap between actual time allocation and the stage standard. Read `references/evidence-and-analysis.md`.
@@ -53,3 +53,4 @@ Applies to any leader with at least 30 days in role. Produces a one-page brief w
 - MUST write activity, leading, and outcome success criteria on day 1.
 - MUST end with a readiness verdict.
 - NEVER use the diagnostic as a compensation input, and NEVER record family, health, or other protected details.
+- NEVER use answers to the goal question as evidence in a promote, move, or replace decision beyond stated professional aspiration.
